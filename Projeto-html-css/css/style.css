@@ -1,0 +1,52 @@
+body{
+    background: #fcfcfc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; /*varias fontes para que se uma não funcione, tenta a proxima*/
+    /*width: 900px;   ajusta o tamanho da pagina ou corpo*/
+    max-width: 900px; /*ajusta o tamanho até 900px, depois muda automaticamente para se adequar ao tamanho*/
+    margin: auto; /*auto vai centralizar toda a pagina e se aumentar e diminuir a pagina, vai diminuir a margem tb*/
+}
+#title, .subtitle, .post_title{
+    color: #505050;
+}
+.photo_top{
+    border: 1px solid #505050;
+    border-radius: 50%; /*50% tecnica para deixar redondo o quadrado*/
+}
+#title{
+    font-size: 38px;
+    text-transform: uppercase; /* texto em maiusculo */
+}
+a {
+    text-decoration: underline; /*textos com links terão underline*/
+    color: #505050;
+}
+.post_title{    
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+.post {
+    background: #fff;
+    padding: 15px;
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 10px ;   /*breve arredondamento nas pontas*/
+}
+.post_image{
+    margin-bottom: 15px;
+    width: 100%;    /*100% para alinhar com o body*/
+}
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize; /*Primeiras letras de cada palavra em maiusculo*/
+    text-align: justify;
+}
+.contacts_list {
+    list-style-type: none;  /*nome remove os itens da lista*/
+    padding-left: 15px;
+}
+.contacts_list li a {
+    text-decoration: none;  /*retirei o underline do texto*/
+}
