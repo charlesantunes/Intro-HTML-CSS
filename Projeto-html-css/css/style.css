@@ -40,8 +40,12 @@ a {
 .post_content{
     margin: 0;
     margin-bottom: 15px;
-    text-transform: capitalize; /*Primeiras letras de cada palavra em maiusculo*/
+    /*text-transform: capitalize; Primeiras letras de cada palavra em maiusculo*/
+    text-transform: unset; /*primeira maiuscula*/
     text-align: justify;
+}
+.post_content a {
+    color: blue;
 }
 .contacts_list {
     list-style-type: none;  /*nome remove os itens da lista*/
