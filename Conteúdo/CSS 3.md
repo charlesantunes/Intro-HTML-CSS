@@ -284,21 +284,9 @@ Usamos o font-style para tornar um texto itálico, na maioria das vezes você us
 **![img](file:///C:/Users/charl/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png)**
 
 - **Width = ajusta a largura**
-
 - **Height = ajusta a altura**
-
 - **Max-Width = ajusta a largura máxima que o elemento pode ter**
-
 - **Max-Height = ajusta a altura máxima que o elemento pode ter**
-
 - **margin = ajusta o espaçamento entre elementos ou alinhar**
-
 - **text-align = alinha textos com: esquerda(left), direta(right), centro(center) e justificado(justify)**
-
-
-
-
-
-**Fonte: Lucas Vilaboim**
-
- 
+- 
