@@ -185,19 +185,26 @@ Com o font-family podemos alterar a fonte dos nossos textos, como uma fonte da i
 
 Essas fontes são chamadas assim pois são encontradas em quases todos os sistemas e podem ser usadas sem preocupação.
 
-![img](file:///C:/Users/charl/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+ <div align="center">
+ <img src="https://user-images.githubusercontent.com/79681500/146664156-c8ed6ef5-a6ee-40cc-9e69-11cf998078af.png"/>
+ </div>
+
 
 **font-size**
 
 O font-size nos ajuda a mudar o tamanho do texto, existem algumas unidades de medida para ele mas por enquanto os pixels são suficientes para nós.
 
-![img](file:///C:/Users/charl/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/79681500/146664371-053e715c-1e76-4386-806c-b814f69f4de7.png"/>
+ </div>
 
 **font-style**
 
 Usamos o font-style para tornar um texto itálico, na maioria das vezes você usará apenas o valor *italic* para ele, mas se precisar tirar o itálico de um texto você pode usar o valor *normal*.
 
-![img](file:///C:/Users/charl/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/79681500/146664491-c761de84-01e8-4146-bc76-f55977bf5b3c.png"/>
+ </div>
 
  
 
@@ -205,8 +212,9 @@ Usamos o font-style para tornar um texto itálico, na maioria das vezes você us
 
 **altera o peso dos texto, existem várias pala chaves para o valor e alguns valores numéricos também, mas eles são mais usados quando eles tem valores complexos que possuem vários pesos. As fontes mais simples o valor normal e o bold já resolvem. O normal seria o peso comum e o bold seria o negrito.**
 
-![img](file:///C:/Users/charl/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
-
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/79681500/146664517-476171f1-1d63-4e6b-8057-30fe2e92bc4d.png"/>
+ </div>
  
 
  
@@ -221,7 +229,9 @@ Usamos o font-style para tornar um texto itálico, na maioria das vezes você us
 
 - text-transform: capitalize = primeiras letras de cada palavra em maiúsculas**
 
-![img](file:///C:/Users/charl/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/79681500/146664543-7cae1daf-605d-420a-9311-aaf8bcfd05af.png"/>
+ </div>
 
 **Text-decoration** 
 
@@ -233,7 +243,9 @@ Usamos o font-style para tornar um texto itálico, na maioria das vezes você us
 
 - **Text-decoration: line-through; adiciona linha no meio da palavra, cortando ela.** 
 
-![img](file:///C:/Users/charl/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/79681500/146664550-e0af9eeb-f8b5-4b4c-a5b2-ef950a258b9f.png"/>
+ </div>
 
  
 
@@ -261,7 +273,9 @@ Usamos o font-style para tornar um texto itálico, na maioria das vezes você us
 
 **}**
 
-![img](file:///C:/Users/charl/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/79681500/146664567-b818298a-da9a-498d-a7ab-3a0891cedd8e.png"/>
+ </div>
 
  
 
@@ -275,13 +289,18 @@ Usamos o font-style para tornar um texto itálico, na maioria das vezes você us
 
 **}**
 
-**![img](file:///C:/Users/charl/AppData/Local/Temp/msohtmlclip1/01/clip_image015.png)**
-
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/79681500/146664584-f6a56d22-34c7-46dd-9136-08eb730bbe8c.png"/>
+ </div>  
  
+ **Dimensão e Alinhamento**  
+ 
+ 
+ 
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/79681500/146664594-44f233b5-d3f7-4499-802a-a43263709c37.png"/>
+ </div>  
 
-**Dimensão e Alinhamento**
-
-**![img](file:///C:/Users/charl/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png)**
 
 - **Width = ajusta a largura**
 - **Height = ajusta a altura**
@@ -289,4 +308,4 @@ Usamos o font-style para tornar um texto itálico, na maioria das vezes você us
 - **Max-Height = ajusta a altura máxima que o elemento pode ter**
 - **margin = ajusta o espaçamento entre elementos ou alinhar**
 - **text-align = alinha textos com: esquerda(left), direta(right), centro(center) e justificado(justify)**
-- 
+
